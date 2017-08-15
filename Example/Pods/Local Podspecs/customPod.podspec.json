@@ -1,0 +1,22 @@
+{
+  "name": "customPod",
+  "version": "0.1.0",
+  "summary": "A short description of customPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/webMing/customPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "webMing": "13663788159@163.com"
+  },
+  "source": {
+    "git": "https://github.com/webMing/customPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "customPod/Classes/**/*"
+}
