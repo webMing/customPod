@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/webMing/customPod'
+  s.homepage         = 'https://github.com/webMing/PrivatePodCodes'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'webMing' => '13663788159@163.com' }
-  s.source           = { :git => 'https://github.com/webMing/customPod.git', :tag => '0.1.0' }
+  s.source           = { :git => 'https://github.com/webMing/PrivatePodCodes.git', :tag => '0.1.0' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
